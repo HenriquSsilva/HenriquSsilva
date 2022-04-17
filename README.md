@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @HenriquSsilva
+- 👀 I’m interested in python development
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on projects involving python
+- 📫 How to reach me henriquemine94@gmail.com / +55 (71) 98434-9286
